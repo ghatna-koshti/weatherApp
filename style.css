@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#a2e7de, #efd4f5,#e5d0f4, #f7cece, #a2e7de);
+    background: white;
 }
 
 .container{
