@@ -5,7 +5,6 @@ The Weather App is a web application that allows users to check the current weat
 ## ScreenShot
 ![image](https://github.com/ghatna-koshti/weatherApp/assets/142246764/ce30021f-0902-4baf-94a1-fd9819d577d0)
 ![image](https://github.com/ghatna-koshti/weatherApp/assets/142246764/543f656c-e53b-42d6-8d12-c96a37255cf5)
-![image](https://github.com/ghatna-koshti/weatherApp/assets/142246764/ff84a55a-4f3e-40db-ab6f-611c6528aad7)
 
 ## Features
 
